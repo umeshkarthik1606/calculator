@@ -19,7 +19,7 @@
 Run the following commands to clone and navigate into the project:  
 
 ```bash  
-    git clone https://github.com/Jomon-J/Calculator.git
+    git clone https://github.com/umeshkarthik1606/calculator.git
 
 ```
 ```
@@ -39,6 +39,4 @@ Run the following commands to clone and navigate into the project:
    
 ---
 
-### 🌟 *Don’t Forget to Star!*
-   - If you find this project useful, please consider giving it a star ⭐. It helps others discover it too!
-   - 
+
